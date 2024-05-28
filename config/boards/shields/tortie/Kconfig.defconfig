@@ -1,0 +1,6 @@
+if SHIELD_tortie
+
+config ZMK_KEYBOARD_NAME
+    default "tortie"
+
+endif
