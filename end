@@ -1,0 +1,89 @@
+[33mcommit f9c864011767208df05ce172829b091d8847ac7b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmother[m[33m)[m
+Author: eatthecrust <eatthecrustrec@gmail.com>
+Date:   Sat Jun 1 12:29:22 2024 -0400
+
+    Add keymap diagram
+
+[33mcommit 377c9295d2ad4ea42ecc439915ab170dec90cbec[m
+Author: eatthecrust <eatthecrustrec@gmail.com>
+Date:   Sat Jun 1 07:00:50 2024 -0400
+
+    MY_BOARD
+
+[33mcommit b4666e82f4a06fc4592c09a681209faea1f86d8a[m
+Author: eatthecrust <eatthecrustrec@gmail.com>
+Date:   Thu May 30 14:06:50 2024 -0400
+
+    Underscore dummy
+
+[33mcommit 89d7e24cbebd704cd437308299f91f111b4d4117[m
+Author: eatthecrust <eatthecrustrec@gmail.com>
+Date:   Thu May 30 14:01:14 2024 -0400
+
+    Fix kconfig shield
+
+[33mcommit be384f772d4485719c21f975bd64a408f79743c1[m
+Author: eatthecrust <eatthecrustrec@gmail.com>
+Date:   Thu May 30 13:46:47 2024 -0400
+
+    Adjust kscan
+
+[33mcommit c5d266160bde0a820ab27417652c13a2a29f076d[m
+Author: eatthecrust <eatthecrustrec@gmail.com>
+Date:   Thu May 30 12:10:08 2024 -0400
+
+    Add more kp + bt
+
+[33mcommit f004b0937de49850ea8b9e1546bee6729cadd6c4[m
+Author: eatthecrust <eatthecrustrec@gmail.com>
+Date:   Thu May 30 06:43:40 2024 -0400
+
+    Add kp
+
+[33mcommit 5bf4b93e2976b023c450294f3ffae61c73a469fb[m
+Author: eatthecrust <eatthecrustrec@gmail.com>
+Date:   Thu May 30 06:30:02 2024 -0400
+
+    Layer Mods
+
+[33mcommit e03526ed356e49a68f8a35b1db1f3d668fdf77fc[m
+Author: eatthecrust <eatthecrustrec@gmail.com>
+Date:   Thu May 30 06:06:52 2024 -0400
+
+    Fix Layer Names
+
+[33mcommit 5856cbf8bf1a9f777eab750244f3e1dd4f184cf4[m
+Author: eatthecrust <eatthecrustrec@gmail.com>
+Date:   Thu May 30 05:44:45 2024 -0400
+
+    Remove Bracket
+
+[33mcommit adbc4e41b53e9bd330eb9bd2349e0b83830eaa8a[m
+Author: eatthecrust <eatthecrustrec@gmail.com>
+Date:   Tue May 28 21:38:16 2024 -0400
+
+    Row38 Col20 Hopefull
+
+[33mcommit 74a4bba486e6eeafcd5de5dae86b59d1832ae679[m
+Author: eatthecrust <eatthecrustrec@gmail.com>
+Date:   Tue May 28 00:15:45 2024 -0400
+
+    Smol Edits
+
+[33mcommit 4c6f7e65c1c9c758357f2f5da5ea262e51e055cd[m
+Author: eatthecrust <eatthecrustrec@gmail.com>
+Date:   Mon May 27 23:32:57 2024 -0400
+
+    Fix default_transform
+
+[33mcommit fe55fea2a05e3e5133e4f0a2caa08ef8352c1a68[m
+Author: eatthecrust <eatthecrustrec@gmail.com>
+Date:   Mon May 27 23:21:40 2024 -0400
+
+    Compile
+
+[33mcommit 8af8edc19a41c8d0657af3e082eb62df736a1b28[m
+Author: eatthecrust <eatthecrustrec@gmail.com>
+Date:   Mon May 27 17:14:31 2024 -0400
+
+    Initial User Config.
